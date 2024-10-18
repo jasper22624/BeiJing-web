@@ -15,6 +15,7 @@
 .hero-text {
     top: 100px;
     position: absolute;
+    color: whitesmoke;
     font-size: 200px;
     text-align: center;
     width: 100%;

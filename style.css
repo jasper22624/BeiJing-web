@@ -5,15 +5,15 @@
 
 .hero-image{
     background-image: url("./images/The_Forbidden_City_-_View_from_Coal_Hill.jpg");
-    height: 500px;
-    background-position: center;
+    height: 330px;
+    background-position: center -570px;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 
 .hero-text {
-    top: 100px;
+    top: 50px;
     position: absolute;
     color: whitesmoke;
     font-size: 200px;

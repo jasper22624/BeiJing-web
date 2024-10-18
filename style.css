@@ -3,6 +3,10 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+img{
+    width: 100%;
+}
+
 .hero-image{
     background-image: url("./images/The_Forbidden_City_-_View_from_Coal_Hill.jpg");
     height: 330px;
@@ -20,3 +24,4 @@
     text-align: center;
     width: 100%;
 }
+

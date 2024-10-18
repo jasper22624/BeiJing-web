@@ -3,6 +3,14 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 35px;
+}
+
 img{
     width: 100%;
 }
@@ -27,6 +35,12 @@ img{
 
 .images{
     display: grid;
-    grid-template-columns: 2fr 3fr;
+    grid-template-columns: 1fr 1fr;
     gap: 33px;
+}
+
+.infos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:33px;
 }

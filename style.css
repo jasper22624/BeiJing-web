@@ -1,5 +1,7 @@
 
-
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .hero-image{
     background-image: url("./images/The_Forbidden_City_-_View_from_Coal_Hill.jpg");

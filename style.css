@@ -8,7 +8,7 @@ p{
 }
 
 h1{
-    font-size: 35px;
+    font-size: 70px;
 }
 
 img{
@@ -37,6 +37,9 @@ img{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 33px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
 }
 
 .infos{

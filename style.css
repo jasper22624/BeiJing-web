@@ -46,4 +46,7 @@ img{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap:33px;
+    width: 80%;
+    margin: auto;
+    margin-top: -5px;
 }
